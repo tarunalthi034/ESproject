@@ -4,4 +4,8 @@
   "dependencies": {
     "puppeteer": "^22.0.0"
   }
+  {
+  "title": "Tarun Domain",
+  "firstHeading": "Tarun Domain"
+}
 }
