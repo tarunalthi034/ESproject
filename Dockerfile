@@ -17,7 +17,7 @@ RUN npm install
 
 COPY scrape.js .
 
-ARG SCRAPE_URL=https://example.com
+ARG SCRAPE_URL=https://github.com/tarunalthi034
 ENV SCRAPE_URL=${SCRAPE_URL}
 
 RUN node scrape.js
